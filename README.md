@@ -1,3 +1,8 @@
-[D2Admin](https://github.com/d2-projects/d2-admin) simplified version of the start template, delete all the sample code in the full version, retain all core functions.
+### 模板说明
 
-[Gitee](https://gitee.com/fairyever/d2-admin-start-kit)
+该模板基于D2admin修改
+
+### 版本说明
+
+#### v1.0.0
+
